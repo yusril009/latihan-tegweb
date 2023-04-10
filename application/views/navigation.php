@@ -17,7 +17,7 @@
                     <a class="nav-link" href="http://vps.aihara1337.my.id/index.php/home/renal">Renal</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="http://vps.aihara1337.my.id/index.php/country">Country</a>
+                    <a class="nav-link" href="http://vps.aihara1337.my.id/index.php/home/kresna">Kresna</a>
                 </li>
             </ul>
         </div>

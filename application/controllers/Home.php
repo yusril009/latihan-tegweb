@@ -26,6 +26,14 @@ class Home extends CI_Controller
         $this->load->view("bio-renal");
         $this->load->view("footer");
     }
+    function kresna()
+    {
+        $data['judul'] = "Bio Renal";
+        $this->load->view("header", $data);
+        $this->load->view("navigation");
+        $this->load->view("bio-kresna");
+        $this->load->view("footer");
+    }
     function country()
     {
     }
