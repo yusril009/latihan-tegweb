@@ -34,7 +34,7 @@
 
                         <div class="card-body">
 
-                            <img src="foto.jpg" alt="Profil Picture" class="img img-thumbnail rounded-circle w-50">
+                            <img src="http://vps.aihara1337.my.id/assets/img/foto.jpg" alt="Profil Picture" class="img img-thumbnail rounded-circle w-50">
 
                             <h2>Kresna Wijaksana</h2>
 
