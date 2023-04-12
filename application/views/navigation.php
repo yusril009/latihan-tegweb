@@ -19,6 +19,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="http://vps.aihara1337.my.id/index.php/home/kresna">Kresna</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://vps.aihara1337.my.id/index.php/home/farhan">Farhan</a>
+                </li>
             </ul>
         </div>
     </nav>

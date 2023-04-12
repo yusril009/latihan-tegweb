@@ -28,10 +28,18 @@ class Home extends CI_Controller
     }
     function kresna()
     {
-        $data['judul'] = "Bio Renal";
+        $data['judul'] = "Bio Kresna";
         $this->load->view("header", $data);
         $this->load->view("navigation");
         $this->load->view("bio-kresna");
+        $this->load->view("footer");
+    }
+    function farhan()
+    {
+        $data['judul'] = "Bio Farhan";
+        $this->load->view("header", $data);
+        $this->load->view("navigation");
+        $this->load->view("bio-farhan");
         $this->load->view("footer");
     }
     function country()
