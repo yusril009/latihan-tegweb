@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="http://vps.aihara1337.my.id/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="http://vps.aihara1337.my.id/assets/css/body.css">
+    <link rel="stylesheet" href="<? echo base_url('assets/css/bootstrap.min.css');?>">
+    <link rel="stylesheet" href="<? echo base_url('assets/css/body.css');?>">
     <title>Biodata</title>
     <style>
      
@@ -18,7 +18,7 @@
     <div class="row">
       <div class="col-md-4">
       <div class="foto">
-        <img src="http://vps.aihara1337.my.id/assets/img/Zer0.jpeg" class="img-thumbnail" alt="" width="150" height="auto">
+        <img src="<? echo base_url('assets/img/Zer0.jpeg');?>" class="img-thumbnail" alt="" width="150" height="auto">
       </div>
       </div>
       <div class="col-md-8 kertas-biodata">

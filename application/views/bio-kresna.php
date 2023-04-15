@@ -8,7 +8,7 @@
     <title>Profil</title>
     
     <!-- Bootstrap CSS only -->
-    <link href="http://vps.aihara1337.my.id/assets/css/bootstrap.min.css" >
+    <link href="<? echo base_url('assets/css/bootstrap.min.css');?>" >
 
     <!-- Font Awesome CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"
@@ -34,7 +34,7 @@
 
                         <div class="card-body">
 
-                            <img src="http://vps.aihara1337.my.id/assets/img/foto.jpg" alt="Profil Picture" class="img img-thumbnail rounded-circle w-50">
+                            <img src="<? echo base_url('assets/img/foto.jpg');?>" alt="Profil Picture" class="img img-thumbnail rounded-circle w-50">
 
                             <h2>Kresna Wijaksana</h2>
 

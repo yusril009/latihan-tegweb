@@ -8,7 +8,7 @@
                             <div class="col-md-4 p-3">
                                 <div class="img-profile text-center mb-5">
                                     <img class="rounded-circle" height="200px" width="200px"
-                                        src="http://vps.aihara1337.my.id/assets/img/Y.JPG" alt="">
+                                        src="<? echo base_url('assets/img/Y.JPG');?>" alt="">
                                 </div>
                                 <div class="about-me text-center">
                                     <h4>Tentang Saya</h4>

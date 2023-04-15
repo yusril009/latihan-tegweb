@@ -35,7 +35,7 @@
 
                         <div class="card-body">
 
-                            <img src="http://vps.aihara1337.my.id/assets/img/foto2.jpeg" alt="Profil Picture" class="img img-thumbnail rounded-circle w-50">
+                            <img src="<? echo base_url('assets/img/foto2.jpeg');?>" alt="Profil Picture" class="img img-thumbnail rounded-circle w-50">
 
                             <h2>Farhan Fadilah</h2>
 
