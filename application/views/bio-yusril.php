@@ -31,7 +31,7 @@
                                             </tr>
                                             <tr>
                                                 <td>Tempat Lahir</td>
-                                                <td> : Surabaya</td>
+                                                <td> : Jepara</td>
                                             </tr>
                                             <tr>
                                                 <td>Alamat</td>
