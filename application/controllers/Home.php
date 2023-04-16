@@ -3,11 +3,10 @@ class Home extends CI_Controller
 {
     function index()
     {
-        $data['nama'] = "Albert";
-        $data['judul'] = "Codeigniter";
+        $data['judul'] = "Home";
         $this->load->view("header", $data);
         $this->load->view("navigation");
-        $this->load->view("content1", $data);
+        $this->load->view("anggota");
         $this->load->view("footer");
     }
     function yusril()
